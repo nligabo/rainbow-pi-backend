@@ -15,7 +15,7 @@ Claudia Almeida  (https://github.com/250256)
 ## 🚀 Sobre o projeto
 Inspiradas no projeto Transforme-me do Seara Experian, em parceria com a Digital House, de estarem dispostos engajar o aumento do número de mulheres na área de desenvolvimento, disponibilizando seu tempo e recursos para ensinar e motivar 60 mulheres. Voltamos nosso projeto integrador em prol de ajudar o próximo. Nosso objeito é conectar pessoas da comunidade LGBTQIA+ que precisam de ajuda, com aqueles que têm vontade de fazer a diferença no mundo ajudando ao próximo.
 
-O objetivo é conectar pessoas da comunidade LGBTQIA+ que precisam de algum tipo de auxílio para lidar com questões emocionais e jurídicas com profissionais que se disponibilizam a oferecer ajuda.
+O objetivo é conectar pessoas da comunidade LGBTQIA+ que precisam de algum tipo de auxílio para lidar com questões emocionais com profissionais que se disponibilizam a oferecer ajuda, além de disponibilizar links relacionados.
 
 Para pessoas em busca de ajuda será possível:
 
