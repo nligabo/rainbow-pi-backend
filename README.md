@@ -50,3 +50,5 @@ Outras consultas possíveis:
 Essa é a primeira versão do projeto, que será aprimorado pelas desenvolvedoras para disponibilizar mais funcionalidades na plataforma e otimizar as existentes.
 
 Durante o desenvolvimento o projeto foi atualizado regularmente no repositório https://github.com/Viviane-Priscila/projetoIntegrador-Rainbow--back
+
+Front-end disponível em https://github.com/Viviane-Priscila/ProjetoIntegrador_-Rainbow_Front
