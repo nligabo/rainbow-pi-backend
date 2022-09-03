@@ -48,3 +48,5 @@ Outras consultas possíveis:
 ## Melhorias
 
 Essa é a primeira versão do projeto, que será aprimorado pelas desenvolvedoras para disponibilizar mais funcionalidades na plataforma e otimizar as existentes.
+
+Durante o desenvolvimento o projeto foi atualizado regularmente no repositório https://github.com/Viviane-Priscila/projetoIntegrador-Rainbow--back
